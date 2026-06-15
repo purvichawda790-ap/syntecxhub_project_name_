@@ -1,86 +1,33 @@
-Overview
-This project was completed as part of my Data Analytics learning journey. The objective was to analyze data, extract meaningful insights, and apply analytical techniques using industry-standard tools.
-Objectives
+Project Overview
 
+This project analyzes Superstore sales data using Power BI to provide insights into sales performance, profit trends, customer segments, and regional performance. The interactive dashboard helps identify key business metrics and supports data-driven decision-making.
 
-Data Cleaning and Preprocessing
-
-
-Exploratory Data Analysis (EDA)
-
-
-Data Visualization
-
-
-Insight Generation
-
-
-Business Problem Solving
-
-
-Tools & Technologies
-
-
-SQL
-
-
-Microsoft Excel
-
-
+🎯 Objectives
+Analyze overall sales and profit performance.
+Identify top-performing products and categories.
+Compare regional and segment-wise sales.
+Track monthly and yearly sales trends.
+Visualize key business KPIs.
+🛠 Tools & Technologies
 Power BI
+Microsoft Excel / CSV Dataset
+Data Cleaning & Transformation (Power Query)
+DAX (Data Analysis Expressions)
+📊 Dashboard Features
+Total Sales, Profit, and Orders KPIs
+Sales Trend Analysis
+Category & Sub-Category Performance
+Regional Sales Analysis
+Customer Segment Analysis
+Interactive Filters and Slicers
+📈 Key Insights
+Identified top-performing product categories.
+Analyzed profit contribution by region.
+Tracked sales growth over time.
+Compared customer segment performance.
+Highlighted high-sales and low-profit areas.
 
+📷 Dashboard Preview
 
-Python (if used)
-
-
-Git & GitHub
-
-
-Key Features
-
-
-Data Cleaning and Transformation
-
-
-Interactive Analysis
-
-
-KPI Tracking
-
-
-Trend Identification
-
-
-Business Insights
-
-
-Project Workflow
-
-
-Data Collection
-
-
-Data Cleaning
-
-
-Data Analysis
-
-
-Visualization
-
-
-Insights & Recommendations
-
-
-Outcomes:-
-
-  1) Improved understanding of data analysis techniques.
-
-2) Generated actionable insights from raw datasets.
-
- 3) Built practical experience with analytical tools and workflows.
-
-Author
-Purvi Chawda
-Aspiring Data Analyst | SQL | Power BI | Excel
+<img width="1920" height="1080" alt="Dashboard png (2)" src="https://github.com/user-attachments/assets/68a9cff4-9586-43fb-9ce4-e54c61640a3b" />
 
